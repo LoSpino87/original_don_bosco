@@ -1,0 +1,33 @@
+body {
+  font-family: 'Exo 2', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Exo 2', sans-serif;
+  letter-spacing: 5px;
+  margin-bottom: 2px;
+}
+
+p{
+  font-family: 'Exo 2', sans-serif;
+}
+
+#head_image{
+  width: 700px;
+  padding-top: 50px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+}
+
+.w3-display-container{
+  background-color: black;
+  max-width:1600px;
+  min-width:500px
+}
+
+.w3-bar{
+  letter-spacing:4px;
+}
