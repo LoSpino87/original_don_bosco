@@ -1,3 +1,5 @@
+![](img/logo_nero.png)
+
 # Ciclofficina ODB
 Ciclofficina Original Don Bosco website based on W3 template.
 
